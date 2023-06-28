@@ -27,6 +27,12 @@
 }
 
 
+.home__title{
+
+    font-size: var(--big-font-size);
+    margin-bottom: var(--mb-0-25);
+}
+
 .home__img{
     background: url(../../assets/Yash-DP(1).jpg);
     background-repeat: no-repeat;
