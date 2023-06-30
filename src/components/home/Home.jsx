@@ -14,10 +14,10 @@ const Home = () => {
 
                 <div className="home__img">
 
-                    <Data/>
+                   
                 </div>
 
-
+                <Data/>
               <ScrollDown/>
 
 
