@@ -1,3 +1,9 @@
+.home__container{
+
+    row-gap: 7rem;
+}
+
+
 .home__content{
     display: flex;
     grid-template-columns: 116px repeat (2,1 fr);
@@ -104,4 +110,28 @@
     }
 
     
+}
+
+
+.home__scroll{
+
+    margin-left: 9.25rem;
+}
+
+.wheel{
+
+    animation: scroll 2s ease infinite;
+}
+
+
+@keyframes scroll{
+
+    0%{
+        transform: translateY(0);
+    }
+
+    30%{
+        transform: translateY(3.75rem);
+    }
+
 }
