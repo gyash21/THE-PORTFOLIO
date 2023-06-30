@@ -18,10 +18,12 @@ const Home = () => {
                 </div>
 
                 <Data/>
-              <ScrollDown/>
+              
 
 
                 </div>
+
+                <ScrollDown/>
             </div>
         </section>
     )
