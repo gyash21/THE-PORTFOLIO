@@ -23,7 +23,7 @@
 .nav__toggle{
 
     color: var(--title-color);
-    font-weight: var(--font-semi-bold);
+    font-weight: var(--font-medium);
 
 }
 
@@ -132,7 +132,7 @@
     }
 
     .nav__icon,
-    .nav__close
+    .nav__close,
     .nav__toggle{
 
         display: block;
