@@ -5,11 +5,12 @@
 
 
 .home__content{
-
+    display: flex;
     grid-template-columns: 116px repeat (2,1 fr);
     padding-top: 5.5rem;
     column-gap: 2rem;
     align-items: center;
+    justify-content: space-between;
     
 }
 
