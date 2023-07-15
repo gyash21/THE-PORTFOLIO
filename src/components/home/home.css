@@ -191,7 +191,7 @@
 
     .home__description{
 
-        max-width: initial;
+        max-width: inherit;
         margin-bottom: var(--mb-2-5);
     }
 
