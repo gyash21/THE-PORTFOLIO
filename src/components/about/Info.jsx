@@ -1,7 +1,6 @@
-
+import React from "react"
 const Info = () => {
-    return 
-    (
+    return(
       <div className="about__info grid">
 
         <div className="about__box">
@@ -26,6 +25,6 @@ const Info = () => {
         </div>
       </div>
     )
-  }
+}
   
   export default Info
