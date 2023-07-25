@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 const Info = () => {
     return 
     (
       <div className="about__info grid">
->>>>>>> 957405fd0fac5eb208a4dd497dff0dee0d273dfb
 
         <div className="about__box">
         <i class='bx bx-award about__icon'></i>
