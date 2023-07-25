@@ -59,6 +59,24 @@
 
     padding: 0 4rem 0 0;
     margin-bottom: var(--mb-2-5);
-    
+
 
 }
+
+
+@media screen and (max-width: 992px) {
+   
+  }
+  
+  /* For medium devices */
+  @media screen and (max-width: 768px) {
+  
+  }
+  
+  @media screen and (max-width: 576px) {
+  }
+  
+  /* For small devices */
+  @media screen and (max-width: 350px) {
+   
+  }
