@@ -1,9 +1,5 @@
 const Info = () => {
-    return (
-      
-
-        
-    )
+    return 
   }
   
   export default Info
