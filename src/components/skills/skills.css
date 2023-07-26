@@ -22,3 +22,17 @@
     text-align: center;
     margin-bottom: var(--mb-1-5);
 }
+
+
+.skills__box{
+    display: flex;
+    justify-content: center;
+    column-gap: 2.5rem;
+}
+
+
+.skills__group{
+    display: grid;
+    align-items: flex-start;
+    row-gap: 1rem;
+}
