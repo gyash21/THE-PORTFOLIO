@@ -36,3 +36,28 @@
     align-items: flex-start;
     row-gap: 1rem;
 }
+
+
+.skills__data{
+    display: flex;
+    column-gap: 0.5rem;
+}
+
+
+.skills .bx-badge-check{
+    font-size: 1rem;
+    color: var(--tile-color);
+
+}
+
+
+.skills__name{
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+    line-height: 18px;
+}
+
+
+.skills__level{
+    font-size: var(--tiny-font-size);
+}
