@@ -35,7 +35,7 @@ const Backend = () => {
             </div>
 
 
-            <div className="skills__group">
+        <div className="skills__group">
             <div className="skills__data">
             <i class='bx bx-badge-check'></i>
             <div>
@@ -65,7 +65,7 @@ const Backend = () => {
         </div>
         </div>   
    </div>
-
+</div>
 
 
 
