@@ -26,7 +26,6 @@
 
 .skills__box{
     display: flex;
-    flex-direction: column;
     justify-content: center;
     column-gap: 2.5rem;
 }
