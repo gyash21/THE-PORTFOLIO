@@ -26,6 +26,7 @@
 
 .skills__box{
     display: flex;
+    flex-direction: row;
     justify-content: center;
     column-gap: 2.5rem;
 }
@@ -46,7 +47,7 @@
 
 .skills .bx-badge-check{
     font-size: 1rem;
-    color: var(--tile-color);
+    color: var(--title-color);
 
 }
 
