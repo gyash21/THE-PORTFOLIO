@@ -90,6 +90,12 @@
         padding: 1.5rem;
     }
 
+    .skills__box{
+        display: grid;
+        grid-template-columns: repeat(2, 33px);
+        column-gap: 6.5rem;
+    
+    }
 
   }
   
