@@ -27,7 +27,7 @@
 .skills__box{
     display: grid;
     grid-template-columns: repeat(2, 20px);
-    column-gap: 2.5rem;
+    column-gap: 6rem;
 
 }
 
@@ -37,6 +37,7 @@
     display: grid;
     align-items: flex-start;
     row-gap: 1rem;
+
 }
 
 
@@ -96,7 +97,7 @@
   @media screen and (max-width: 350px) {
 
     .skills__box{
-        column-gap: 1.25rem;
+        column-gap: 6rem;
 
     }
 
