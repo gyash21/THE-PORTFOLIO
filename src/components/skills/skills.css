@@ -92,7 +92,7 @@
 
     .skills__box{
         display: grid;
-        grid-template-columns: repeat(2, 33px);
+        grid-template-columns: repeat(2, 48px);
         column-gap: 6.5rem;
     
     }
