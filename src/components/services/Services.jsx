@@ -34,31 +34,31 @@ const Services = () => {
 
               <ul className="service__modal services grid">
                 <li className="services__modal-services">
-                  <i className="uil uil check-circle services__modal icon"></i>
+                  <i className="uil uil check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Develops UX/UI Interface</p>
                 </li>
 
 
                 <li className="services__modal-services">
-                  <i className="uil uil check-circle services__modal icon"></i>
+                  <i className="uil uil check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Web App Development</p>
                 </li>
 
 
                 <li className="services__modal-services">
-                  <i className="uil uil check-circle services__modal icon"></i>
+                  <i className="uil uil check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Design and Mockup</p>
                 </li>
 
 
                 <li className="services__modal-services">
-                  <i className="uil uil check-circle services__modal icon"></i>
+                  <i className="uil uil check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Brand Identity</p>
                 </li>
 
 
                 <li className="services__modal-services">
-                  <i className="uil uil check-circle services__modal icon"></i>
+                  <i className="uil uil check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Content Marketing</p>
                 </li>
               </ul>
