@@ -140,11 +140,11 @@ const Services = () => {
           <div className="services__modal">
             <div className="services__modal-content">
               <i className="uil uil times services__modal-close">
-              Visual Designer
+             
               </i>
 
               <h3 className="services__modal-title">
-
+              Visual Designer
               </h3>
               <p className="services__modal-description">Providing quality and exceptional work to clients and companies</p>
 
