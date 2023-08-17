@@ -86,3 +86,15 @@
     border-radius: 1.5rem;
 
 }
+
+
+.services__modal-close{
+
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    font-size: 1.5rem;
+    color: var(--title-color);
+    cursor: pointer;
+    
+}
