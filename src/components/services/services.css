@@ -98,3 +98,11 @@
     cursor: pointer;
     
 }
+
+
+
+.services__modal-title,
+.services__Modal-description{
+
+    text-align: center;
+}
