@@ -34,31 +34,31 @@ const Services = () => {
               <p className="services__modal-description">Providing quality and exceptional work to clients and companies</p>
 
               <ul className="service__modal services grid">
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Develops UX/UI Interface</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Web App Development</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Design and Mockup</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Brand Identity</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Content Marketing</p>
                 </li>
@@ -92,31 +92,31 @@ const Services = () => {
               <p className="services__modal-description">Providing quality and exceptional work to clients and companies</p>
 
               <ul className="service__modal services grid">
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Develops UX/UI Interface</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Web App Development</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Design and Mockup</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Brand Identity</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Content Marketing</p>
                 </li>
@@ -150,31 +150,31 @@ const Services = () => {
               <p className="services__modal-description">Providing quality and exceptional work to clients and companies</p>
 
               <ul className="service__modal services grid">
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Develops UX/UI Interface</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Web App Development</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Design and Mockup</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Brand Identity</p>
                 </li>
 
 
-                <li className="services__modal-services">
+                <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Content Marketing</p>
                 </li>
@@ -186,5 +186,5 @@ const Services = () => {
     </section>
   );
 };
-
+ 
 export default Services
