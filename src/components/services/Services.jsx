@@ -24,7 +24,7 @@ const Services = () => {
 
           <div className="services__modal">
             <div className="services__modal-content">
-              <i className="uil uil times services__modal-close">
+              <i className="uil uil-times services__modal-close">
 
               </i>
 
@@ -82,7 +82,7 @@ const Services = () => {
 
           <div className="services__modal">
             <div className="services__modal-content">
-              <i className="uil uil times services__modal-close">
+              <i className="uil uil-times services__modal-close">
 
               </i>
 
@@ -140,7 +140,7 @@ const Services = () => {
 
           <div className="services__modal">
             <div className="services__modal-content">
-              <i className="uil uil times services__modal-close">
+              <i className="uil uil-times services__modal-close">
              
               </i>
 
