@@ -86,9 +86,9 @@ const Services = () => {
           <span onClick={() => toggleTab(2)}className="services__button"> View More<i className="uil uil-arrow-right services__button-icon"></i></span>
 
 
-          <div className="services__modal">
+          <div className={toggleState === 2 ? "services__modal active-modal" : "services__modal"}>
             <div className="services__modal-content">
-              <i className="uil uil-times services__modal-close">
+              <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close">
 
               </i>
 
