@@ -146,7 +146,7 @@ const Services = () => {
 
           <div className="services__modal">
             <div className="services__modal-content">
-              <i className="uil uil-times services__modal-close">
+              <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close">
              
               </i>
 
