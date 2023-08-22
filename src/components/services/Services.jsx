@@ -83,7 +83,7 @@ const Services = () => {
             
           </div>
 
-          <span className="services__button"> View More<i className="uil uil-arrow-right services__button-icon"></i></span>
+          <span onClick={() => toggleTab(2)}className="services__button"> View More<i className="uil uil-arrow-right services__button-icon"></i></span>
 
 
           <div className="services__modal">
