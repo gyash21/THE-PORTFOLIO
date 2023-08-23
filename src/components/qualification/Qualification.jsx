@@ -39,7 +39,12 @@ const Qualification  = () => {
                         <div>
                             <h3 className="qualification__title"></h3>
                             <span className="qualification__subtitle"></span>
-                            <div className="qualification__calender"></div>
+                            <div className="qualification__calender">
+
+                                <i className="uil uil-calender-alt">
+                                    
+                                </i>
+                            </div>
                         </div>
                     </div>
                 </div>
