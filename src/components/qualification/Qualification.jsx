@@ -1,5 +1,5 @@
 import react from 'react';
-import "./qualification..css";
+import "./qualification.css";
 
 
 const Qualification  = () => {
