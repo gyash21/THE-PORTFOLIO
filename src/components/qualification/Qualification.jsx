@@ -55,13 +55,6 @@ const Qualification  = () => {
                     </div>
                     <div></div>
 
-
-                    <div>
-                            <span className="qualification__rounder"></span>
-
-                            <span className="qualification__line"></span>
-                        </div>
-
                     <div className="qualification__data">
                         <div>
                             <h3 className="qualification__title">Art Director</h3>
@@ -71,6 +64,11 @@ const Qualification  = () => {
                                 <i className="uil uil-calender-alt">
                                 </i> 2021 - Present
                             </div>
+                        </div>
+                        <div>
+                            <span className="qualification__rounder"></span>
+
+                            <span className="qualification__line"></span>
                         </div>
 
                     </div>
