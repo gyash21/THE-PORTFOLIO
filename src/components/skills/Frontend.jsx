@@ -28,7 +28,7 @@ const Frontend = () => {
             <div className="skills__data">
             <i class='bx bxl-javascript' ></i>
             <div>
-                <h3 className="skills__name">JavaScript</h3>
+                <h3 className="skills__name">JS</h3>
                 <span className="skills__level">Intermediate</span>
             </div>
             </div>
