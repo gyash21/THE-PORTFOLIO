@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+import "./testiomial.css";
+import { Data } from "./Data";
 
 const Testimonials = () => {
   return (
