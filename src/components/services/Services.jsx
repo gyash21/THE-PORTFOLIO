@@ -20,7 +20,7 @@ const Services = () => {
           <div>
             <i className="uil uil-web-grid services__icon"></i>
              <h3 className="services__title">
-              Product <br />Designer
+              Web <br />Developer
               </h3> 
             
           </div>
@@ -35,7 +35,7 @@ const Services = () => {
               </i>
 
               <h3 className="services__modal-title">
-              Product Designer
+              Web Developer
               </h3>
               <p className="services__modal-description">Providing quality and exceptional work to clients and companies</p>
 
@@ -136,7 +136,7 @@ const Services = () => {
           <div>
             <i className="uil uil-edit services__icon"></i>
              <h3 className="services__title">
-              Visual <br /> Designer
+              Visual <br /> Creator
               </h3> 
             
           </div>
@@ -151,7 +151,7 @@ const Services = () => {
               </i>
 
               <h3 className="services__modal-title">
-              Visual Designer
+              Visual Creator
               </h3>
               <p className="services__modal-description">Providing quality and exceptional work to clients and companies</p>
 
