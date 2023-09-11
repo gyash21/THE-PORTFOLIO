@@ -1,5 +1,5 @@
 import React from 'react';
-import "./testiomial.css";
+import "./testimonial.css";
 import { Data } from "./Data";
 
 const Testimonials = () => {
@@ -23,6 +23,10 @@ const Testimonials = () => {
               <h3 className="testimonial__name">
                 {title}
               </h3>
+
+              <p className="testimonial__description">
+                {description}
+              </p>
           </div>
         )
       })}

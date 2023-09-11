@@ -30,15 +30,6 @@ export const Data =[
         description:
             "An impressive and neat job by Yash, covering all our needs and thus creating an amazing and super-fast web app"
 
-    },
-
-
-    {
-        id:4,
-        image: Image4,
-        title: "Harvey Spectre",
-        description:
-            "An impressive and neat job by Yash, covering all our needs and thus creating an amazing and super-fast web app"
-
     }
+
 ]
