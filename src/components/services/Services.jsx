@@ -132,7 +132,7 @@ const Services = () => {
         </div>
 
 
-        <div className="services__content">
+        {/* <div className="services__content">
           <div>
             <i className="uil uil-edit services__icon"></i>
              <h3 className="services__title">
@@ -184,10 +184,10 @@ const Services = () => {
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">Content Marketing</p>
                 </li>
-              </ul>
-            </div>
-          </div>
-        </div>
+              </ul> */}
+            {/* </div>
+          </div> */}
+        {/* </div> */}
 </div>
     </section>
   );
