@@ -10,13 +10,22 @@ const Contact = () => {
         <div className="contact__container container grid">
             <div className="contact__content">
                 <h3 className="contact__title">
-
+                  Write me your queries
                 </h3>
+            </div>
+
+
+            <div className="contact__info">
+              <div className="contact__card">
+                <i className="bx bx contact__card-icon">
+                  
+                </i>
+              </div>
             </div>
 
             <div className="contact__content">
                 <h3 className="contact__title">
-                    
+                    Let's talk about your project.
                 </h3>
             </div>
         </div>
