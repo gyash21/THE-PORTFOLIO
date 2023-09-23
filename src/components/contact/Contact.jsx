@@ -17,9 +17,13 @@ const Contact = () => {
 
             <div className="contact__info">
               <div className="contact__card">
-                <i className="bx bx contact__card-icon">
-                  
-                </i>
+                <i className="bx bx contact__card-icon"></i>
+
+                <h3 className="contact__card-title">
+                  <span className="contact__card-data"></span>
+
+                  <a href="" className="contact__data">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                </h3>
               </div>
             </div>
 
