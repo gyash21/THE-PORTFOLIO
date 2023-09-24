@@ -18,7 +18,7 @@ const Contact = () => {
             <div className="contact__info">
 
               <div className="contact__card">
-                <i className="bx bx contact__card-icon"></i>
+                <i className="bx bx-mail-send contact__card-icon"></i>
 
                 <h3 className="contact__card-title">Email</h3>
                   <span className="contact__card-data">gyash21@gmail.com</span>
@@ -28,7 +28,7 @@ const Contact = () => {
               </div>
 
               <div className="contact__card">
-                <i className="bx bx contact__card-icon"></i>
+                <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                 <h3 className="contact__card-title">Whatsapp</h3>
                   <span className="contact__card-data">9595799799</span>
@@ -38,7 +38,7 @@ const Contact = () => {
               </div>
 
               <div className="contact__card">
-                <i className="bx bx contact__card-icon"></i>
+                <i className="bx bxl-messenger contact__card-icon"></i>
 
                 <h3 className="contact__card-title">Messenger</h3>
                   <span className="contact__card-data">gyash21</span>
@@ -52,6 +52,15 @@ const Contact = () => {
                 <h3 className="contact__title">
                     Let's talk about your project.
                 </h3>
+
+
+            <form className="contact__form">
+              <div className="contact__form-div">
+                <label className="contact__form-tag">Name</label>
+                <input type="text" name="name" className="contact__form-input" placeholder='Insery your name'/>
+              </div>
+            </form>
+
             </div>
         </div>
 
