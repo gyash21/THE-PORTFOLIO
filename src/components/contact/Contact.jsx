@@ -21,7 +21,7 @@ const Contact = () => {
                 <i className="bx bx contact__card-icon"></i>
 
                 <h3 className="contact__card-title">Email</h3>
-                  <span className="contact__card-data"></span>
+                  <span className="contact__card-data">gyash21@gmail.com</span>
 
                   <a href="" className="contact__data">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                 
@@ -31,7 +31,7 @@ const Contact = () => {
                 <i className="bx bx contact__card-icon"></i>
 
                 <h3 className="contact__card-title">Whatsapp</h3>
-                  <span className="contact__card-data"></span>
+                  <span className="contact__card-data">9595799799</span>
 
                   <a href="" className="contact__data">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                 
@@ -41,7 +41,7 @@ const Contact = () => {
                 <i className="bx bx contact__card-icon"></i>
 
                 <h3 className="contact__card-title">Messenger</h3>
-                  <span className="contact__card-data"></span>
+                  <span className="contact__card-data">gyash21</span>
 
                   <a href="" className="contact__data">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                 
