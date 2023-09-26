@@ -22,6 +22,16 @@ const Footer = () => {
                 </li>
             </ul>
 
+
+            <div className="footer__social">
+
+            <a href="https://yashgupta.blog" className="footer__social-link" target="_blank"><i class="bx bxl-facebook"></i></a>
+
+            <a href="https://instagram.com/decode.yash" className="footer__social-link" target="_blank"><i class="bx bxl-instagram"></i></a>
+
+            <a href="https://twitter.com/gyash21" className="footer__social-link" target="_blank"><i class="bx bxl-twitter"></i></a>
+            </div>
+
         </div>
     </footer>
   )

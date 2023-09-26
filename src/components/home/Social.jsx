@@ -9,8 +9,8 @@ const Social = () => {
 
         <a href="https://github.com/gyash21" className="home__social-icon" target="_blank"><i class="uil uil-github-alt"></i></a>
        </div>
-    )
-}
+    );
+};
 
 
 
