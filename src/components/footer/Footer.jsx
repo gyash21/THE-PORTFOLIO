@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import "./footer.css";
 
 const Footer = () => {
   return (
@@ -31,6 +32,11 @@ const Footer = () => {
 
             <a href="https://twitter.com/gyash21" className="footer__social-link" target="_blank"><i class="bx bxl-twitter"></i></a>
             </div>
+
+
+            <span className="footer__copy">
+                Yash Gupta. All rights reserved
+            </span>
 
         </div>
     </footer>
