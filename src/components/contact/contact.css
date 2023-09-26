@@ -6,6 +6,13 @@
     padding-bottom: 3rem;
 }
 
+.contact__title{
+
+    text-align: center;
+    font-size: var(--h3-font-size);
+    font-weight: var(--font-medium);
+    margin-bottom: var(--mb-1-5);
+}
 
 .contact__info{
 
@@ -13,4 +20,9 @@
     row-gap: 1rem;
     grid-template-columns: 300px;
 
+}
+
+.contact__form {
+
+    width: 360px;
 }
