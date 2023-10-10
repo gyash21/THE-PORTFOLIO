@@ -7,19 +7,19 @@ export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: 'Web design',
+    title: 'Ecommerce-Next',
     category: 'web',
   },
   {
     id: 2,
     image: Work2,
-    title: 'App movil',
+    title: 'Movie App',
     category: 'app',
   },
   {
     id: 4,
     image: Work4,
-    title: 'App movil',
+    title: 'Leetcode',
     category: 'app',
   },
   {
