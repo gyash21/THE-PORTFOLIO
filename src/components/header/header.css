@@ -27,6 +27,11 @@
 
 }
 
+.nav__logo{
+    font-size: large;
+    font-weight: 900;
+}
+
 
 .nav__list{
     display: flex;
