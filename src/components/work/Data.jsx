@@ -25,7 +25,7 @@ export const projectsData = [
   {
     id: 5,
     image: Work5,
-    title: 'Web design',
+    title: 'QueueOverflow',
     category: 'Web',
   },
 ];
