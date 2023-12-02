@@ -112,6 +112,10 @@
         gap: 2rem;
     }
 
+    .nav__logo{
+        font-size: 100%;
+        font-weight: 600;
+    }
 
     .nav__icon{
         font-size: 1.2rem;
@@ -160,6 +164,10 @@
         column-gap: 0;
     }
 
+    .nav__logo{
+        font-size: 100%;
+        font-weight: 600;
+    }
 
 
     }
