@@ -18,9 +18,9 @@ const Backend = () => {
 
 
             <div className="skills__data">
-            <i class='bx bxl-python' ></i>
+            <i class='bx bxl-spring-boot'></i>
             <div>
-                <h3 className="skills__name">Python</h3>
+                <h3 className="skills__name">Spring Boot</h3>
                 <span className="skills__level">Intermediate</span>
             </div>
             </div>
